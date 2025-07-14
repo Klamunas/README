@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=seuusuario.seuusuario&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Klamunas&" />
 </div>
 
 ###
@@ -67,7 +67,7 @@ I'm <b>Kauã Ferreira</b> from Brazil 🇧🇷 <br><br>
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=seuusuario&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Klamunas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
