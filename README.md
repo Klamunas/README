@@ -76,6 +76,6 @@ I'm <b>Kauã Ferreira</b> from Brazil 🇧🇷 <br><br>
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Klamunas&show_icons=true&theme=dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klamunas&layout=compact&theme=dark&hide_border=true" height="180"/>
 </div>
