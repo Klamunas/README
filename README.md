@@ -5,13 +5,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/coloque-seu-link">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/kauaferreira/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://www.youtube.com/@coloque-seu-canal">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="https://twitter.com/coloque-seu-user">
+  <a href="https://www.instagram.com/kauaf.ferreira_">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
 </div>
